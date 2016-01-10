@@ -1,0 +1,33 @@
+body {
+  font-family: arial;
+  font-weight: 100;
+  background-image: url(Kellogg_Display-08.jpg);
+  background-size: 2300px;
+  background-repeat: repeat;
+  text-align: left;
+}
+#wrapper {
+  width: 1000px;
+  margin: 20px auto 20px auto;
+}
+#kellogg{
+	width: 350px;
+}
+img{
+	width: 175px;
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+}
+h1{
+	color: white;
+}
+h2{
+	color: gray;
+	border-bottom: solid;
+	border-color: gray;
+}
+.course_description{
+	font-style: italic;
+	color: black;
+}
